@@ -1,2 +1,2 @@
-# odin-recipes
-Short HTML boilerplate project
+# Portfolio
+Mod 1 Quick Portfolio
