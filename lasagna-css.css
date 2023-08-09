@@ -1,7 +1,7 @@
 body
     {
     margin: 50px;
-    padding: 50px;
+    padding: 0px;
     min-height: 100vh; /* Ensure the container fills the viewport height */
     background-color:blanchedalmond;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,6 +18,6 @@ div
   
 .proper
     {
-    height: 800px;
-    width: 800px; 
+    height: 600px;
+    width: 600px; 
     }

@@ -1,6 +1,6 @@
 body   
   {
-  margin: 0;
+  margin: 50px;
   padding: 0;
   min-height: 100vh; /* Ensure the container fills the viewport height */
   background-color:blanchedalmond;
@@ -15,5 +15,5 @@ body
 .proper
   {
   height: 600px;
-  width: 800px; 
+  width: 1000px; 
   }
